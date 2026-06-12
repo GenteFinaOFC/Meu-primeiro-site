@@ -1,0 +1,22 @@
+body {
+    padding-top: 20px;
+}
+
+article {
+    margin-top: 20px;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+textarea {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
